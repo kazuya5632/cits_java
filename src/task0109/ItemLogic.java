@@ -5,7 +5,7 @@ import java.util.List;
 import logic.Item;
 
 // 処理クラス
-public class Logic {
+public class ItemLogic {
 	// データアクセスオブジェクト
 	private ItemDAO dao = DaoFactory.createItemDAO();
 

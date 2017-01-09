@@ -7,7 +7,7 @@ import logic.Item;
 public class Test {
 
 	public static void main(String[] args) throws DAOException {
-		Logic logic = new Logic();
+		ItemLogic logic = new ItemLogic();
 
 		// 商品追加テスト
 		Item items = new Item();
